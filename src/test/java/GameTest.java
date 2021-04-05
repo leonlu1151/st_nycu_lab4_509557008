@@ -43,7 +43,7 @@ class GameTest {
 
     public static Stream<Arguments> allInvalidInputCases() {
         return Stream.of(
-                Arguments.arguments("rocket"),
+                Arguments.arguments("roku"),
                 Arguments.arguments("pepper"),
                 Arguments.arguments("sisters")
         );
